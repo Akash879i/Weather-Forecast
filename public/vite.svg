@@ -1,0 +1,25 @@
+<svg
+  version="1.1"
+  id="Layer_1"
+  xmlns="http://www.w3.org/2000/svg"
+  xmlns:xlink="http://www.w3.org/1999/xlink"
+  viewBox="0 0 64 64"
+  xml:space="preserve"
+  width="200px" height="200px">
+  <g>
+    <circle style="fill:#FFA726;" cx="32" cy="32" r="16"/>
+    <g>
+      <polygon style="fill:#FFA726;" points="32,8 34,14 30,14 "/>
+      <polygon style="fill:#FFA726;" points="32,56 34,50 30,50 "/>
+      <polygon style="fill:#FFA726;" points="8,32 14,34 14,30 "/>
+      <polygon style="fill:#FFA726;" points="56,32 50,34 50,30 "/>
+      <polygon style="fill:#FFA726;" points="10.8,10.8 13.2,16 16,13.2 10.8,10.8"/>
+      <polygon style="fill:#FFA726;" points="53.2,10.8 50.8,16 48,13.2 53.2,10.8"/>
+      <polygon style="fill:#FFA726;" points="10.8,53.2 16,50.8 13.2,48 10.8,53.2"/>
+      <polygon style="fill:#FFA726;" points="53.2,53.2 50.8,48 48,50.8 53.2,53.2"/>
+    </g>
+  </g>
+  <path style="fill:#2196F3;" d="M53,42c0-7.732-6.268-14-14-14c-0.164,0-0.326,0.005-0.489,0.011C35.611,24.577,33.908,23,32,23
+    c-3.313,0-6,2.687-6,6c0,0.651,0.105,1.276,0.293,1.86C22.823,31.329,21,33.515,21,36c0,3.314,2.686,6,6,6h26
+    C50.314,42,53,39.314,53,36z"/>
+</svg>
